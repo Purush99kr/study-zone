@@ -11,6 +11,11 @@ h1{
     justify-content: space-around;
 }
 
+.container1{
+  display: flex;
+  padding: 5px 5px;
+  justify-content: center;
+}
 
 ul.breadcrumb {
     padding: 10px 16px;
